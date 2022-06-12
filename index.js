@@ -37,7 +37,7 @@ function overwriteBestCustomer(){
 // 5) Fix the Scope
 // changeLeastFavoriteCustomer()
 //   unsuccessfully tries to reassign the least favorite customer:
-// ReferenceError: changeLeastFavoriteCustomer is not defined
+// ReferenceError: changeLeastFavoriteCustomer is not defined 
 
 const leastFavoriteCustomer = "oya";
 function changeLeastFavoriteCustomer(){
